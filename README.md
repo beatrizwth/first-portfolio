@@ -1,6 +1,6 @@
 ## First Personal Portfolio | Challenge #00
 
-![image](https://github.com/user-attachments/assets/7ef12a6d-de1c-4073-bab2-f4525576d750)
+![first-portfolio ‐ Feito com o Clipchamp (1)](https://github.com/user-attachments/assets/9207e18f-8d22-4f3d-a1ff-e027887db9e7)
 
 ### O portfólio possui:
 - Página inicial com breve apresentação;
