@@ -2,8 +2,6 @@
 
 ![first-portfolio](https://github.com/user-attachments/assets/aa0b601b-303e-47eb-b0c4-cdde9b1671da)
 
-
-
 ### O portfólio possui:
 - [x] Página inicial com breve apresentação;
 - [x] Link de redes para contato;
