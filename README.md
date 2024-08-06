@@ -1,8 +1,13 @@
 ## First Personal Portfolio | Challenge #00
 
-![first-portfolio ‐ (1)](https://github.com/user-attachments/assets/9207e18f-8d22-4f3d-a1ff-e027887db9e7)
+![first-portfolio](https://github.com/user-attachments/assets/aa0b601b-303e-47eb-b0c4-cdde9b1671da)
+
+
 
 ### O portfólio possui:
-- Página inicial com breve apresentação;
-- Link de redes para contato;
-- Sobre mim com mais detalhes e demonstrações.
+- [x] Página inicial com breve apresentação;
+- [x] Link de redes para contato;
+- [x] Sobre mim com mais detalhes e demonstrações.
+
+
+**link do deploy disponível acima!✨**
